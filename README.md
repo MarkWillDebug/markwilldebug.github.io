@@ -2,6 +2,6 @@
 
 My personal website🤘🤘 
 
-https://markwilldebug.github.io/
+ourmine.github.io/
 
 Thank you Github for hosting it.
