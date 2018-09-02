@@ -2,6 +2,6 @@
 
 My personal website🤘🤘 
 
-ourmine.github.io/
+ourmineus.github.io/
 
 Thank you Github for hosting it.
